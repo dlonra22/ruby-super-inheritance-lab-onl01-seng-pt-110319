@@ -1,4 +1,6 @@
 class Student
-  attr_accessor :name
+  
+  def hello
+    puts
   
 end
